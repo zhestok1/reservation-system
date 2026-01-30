@@ -1,5 +1,9 @@
-package com.example.reservation_system;
+package com.example.reservation_system.service;
 
+import com.example.reservation_system.model.Reservation;
+import com.example.reservation_system.model.ReservationEntity;
+import com.example.reservation_system.repository.ReservationRepository;
+import com.example.reservation_system.model.ReservationStatus;
 import jakarta.persistence.EntityNotFoundException;
 import jakarta.transaction.Transactional;
 import org.slf4j.Logger;

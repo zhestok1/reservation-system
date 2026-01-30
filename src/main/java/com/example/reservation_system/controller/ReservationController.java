@@ -1,6 +1,8 @@
-package com.example.reservation_system;
+package com.example.reservation_system.controller;
 
 
+import com.example.reservation_system.model.Reservation;
+import com.example.reservation_system.service.ReservationService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

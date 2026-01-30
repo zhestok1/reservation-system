@@ -1,6 +1,7 @@
-package com.example.reservation_system;
+package com.example.reservation_system.exception;
 
 
+import com.example.reservation_system.model.dto.ErrorResponseDto;
 import jakarta.persistence.EntityNotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
