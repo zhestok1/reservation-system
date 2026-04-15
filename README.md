@@ -1,4 +1,4 @@
-# Matrix Calculator 🧮
+# Matrix Calculator 
 
 Веб-приложение для выполнения операций над матрицами с удобным REST API.
 
